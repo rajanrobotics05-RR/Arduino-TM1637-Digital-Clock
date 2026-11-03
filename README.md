@@ -21,6 +21,9 @@ The clock displays hours and minutes (HH:MM) and updates every second.
 | VCC | 5V |
 | GND | GND |
 
+## Project Poster
+
+![Arduino Digital Clock](rajan_robotics_digital_clock_project_poster.png)
 ## Arduino Library
 Install the `TM1637Display` library from Arduino IDE Library Manager.
 
