@@ -39,4 +39,4 @@ Rajan Robotics
 Vision to Reality
 
 ## Project Poster
-![Arduino Digital Clock](rajan_robotics_digital_clock_project_poster.png)
+![Arduino Digital Clock](rajan_robotics_digital_clock_project_poster.png.png)
